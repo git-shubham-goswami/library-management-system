@@ -46,8 +46,6 @@ This is a full-featured Library Management System built using **Spring MVC**, **
 
 ---
 
-## 🗂️ Folder Structure
-<pre> ``` ├── src/ │ └── main/ │ └── java/ │ └── com.lms/ │ ├── controller/ │ ├── model/ │ ├── repository/ │ └── service/ ├── webapp/ │ ├── css/ │ ├── jsp/ │ ├── WEB-INF/ │ │ └── ds-servlet.xml │ └── index.jsp ``` </pre>
 ## 🧑‍💻 How to Run
 
 1. Clone this repo
@@ -60,7 +58,7 @@ This is a full-featured Library Management System built using **Spring MVC**, **
 
 ## 🙌 Credits
 
-Created by **[Your Name]** — built with ❤️ using Java & Spring.
+Created by **Shubham-Goswami** — built with ❤️ using Java & Spring.
 
 ---
 
