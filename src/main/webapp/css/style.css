@@ -1,0 +1,47 @@
+.main-bg {
+    min-height: 100vh;
+    background: url('../images/bg.png') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Glass card style */
+.glass-card {
+
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 15px;
+    padding: 40px;
+    max-width: 400px;
+    width: 100%;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+
+/* Headings and text */
+.glass-card h1 {
+    font-size: 30px;
+    font-style:normal;
+    color: #333;
+    margin-bottom: 1px;
+}
+
+.glass-card h2 {
+    font-size: 20px;
+    font-style:normal;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.glass-card p {
+    color: white;
+    font-size: 16px;
+}
+
+/* Add spacing between buttons */
+.d-grid.gap-3 {
+    gap: 1rem;
+}
